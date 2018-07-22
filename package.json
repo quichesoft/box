@@ -1,0 +1,21 @@
+{
+  "name": "box",
+  "version": "0.0.3",
+  "author": "Quichesoft",
+  "private": true,
+  "main": "./src/bin/index.js",
+  "bin": {
+    "box": "./src/bin/cli.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "commander": "^2.15.1",
+    "interpret": "^1.1.0",
+    "knex": "^0.14.6",
+    "liftoff": "^2.5.0",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0",
+    "pg": "^7.4.3",
+    "v8flags": "^3.1.1"
+  }
+}
