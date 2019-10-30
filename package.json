@@ -11,7 +11,7 @@
     "bluebird": "^3.5.1",
     "commander": "^2.15.1",
     "interpret": "^1.1.0",
-    "knex": "^0.14.6",
+    "knex": "^0.19.5",
     "liftoff": "^2.5.0",
     "lodash": ">=4.17.11",
     "minimist": "^1.2.0",
