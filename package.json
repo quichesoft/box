@@ -8,15 +8,15 @@
     "box": "./src/bin/cli.js"
   },
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "commander": "^2.15.1",
-    "interpret": "^1.1.0",
-    "knex": "^0.14.6",
-    "liftoff": "^2.5.0",
-    "lodash": ">=4.17.11",
-    "minimist": "^1.2.0",
-    "pg": "^7.4.3",
-    "v8flags": "^3.1.1",
-    "extend": ">=3.0.2"
+    "bluebird": "^3.7.2",
+    "commander": "^8.3.0",
+    "extend": "^3.0.2",
+    "interpret": "^2.2.0",
+    "knex": "^0.95.13",
+    "liftoff": "^3.1.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "pg": "^8.7.1",
+    "v8flags": "^3.2.0"
   }
 }
